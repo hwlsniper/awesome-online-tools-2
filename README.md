@@ -50,6 +50,7 @@
 - [ThePDF](https://the-pdf.com) - 55+ PDF tools: merge, split, compress, convert, edit.
 - [iLovePDF](https://www.ilovepdf.com) - PDF tools collection.
 - [SmallPDF](https://smallpdf.com) - PDF tools and converter.
+- [PDF Toolbox](https://pdftoolbox-three.vercel.app) - Free, privacy-first PDF toolkit — merge, split, compress, convert, OCR, e-sign. All client-side.
 
 ## SEO Tools
 
